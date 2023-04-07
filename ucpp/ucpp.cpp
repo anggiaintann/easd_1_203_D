@@ -29,3 +29,4 @@ void selectionSort(int intan[], int n) {
     }
 }
 void display(int intan[], int n) {
+    cout << "Sorted array: ";
