@@ -42,3 +42,6 @@ int main() {
     int intan[MAX_DATA];
     input(intan, n);
     selectionSort(intan, n);
+    display(intan, n);
+    return 0;
+}
