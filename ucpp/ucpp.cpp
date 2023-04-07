@@ -40,3 +40,5 @@ void display(int intan[], int n) {
 int main() {
     int n = MAX_DATA;
     int intan[MAX_DATA];
+    input(intan, n);
+    selectionSort(intan, n);
