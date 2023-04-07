@@ -25,3 +25,6 @@ void selectionSort(int intan[], int n) {
                 min_index = i;
             }
         }
+        swap(intan[AI], intan[min_index]);
+    }
+}
