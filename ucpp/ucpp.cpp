@@ -28,3 +28,4 @@ void selectionSort(int intan[], int n) {
         swap(intan[AI], intan[min_index]);
     }
 }
+void display(int intan[], int n) {
